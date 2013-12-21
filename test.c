@@ -6,5 +6,7 @@ int main(void)
 	printf("git_test/test/test.c");
 	printf("END\n");
 
+	fputs("newFunc");
+
 	return 0;
 }
