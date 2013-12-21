@@ -2,7 +2,7 @@
 
 int main(void)
 {
-	printf("END\n");
+	printf("practice\n");
 
 	return 0;
 }
