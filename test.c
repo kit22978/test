@@ -1,18 +1,8 @@
-<<<<<<< HEAD
-testteste
-fdasa
+#include <stdio.h>
 
-fdas
-ddd
-dd
-1
-2
-3
+int main(void)
+{
+	printf("END\n");
 
-=======
-f
-
-
-
-das
->>>>>>> test/master
+	return 0;
+}
