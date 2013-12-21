@@ -7,6 +7,7 @@ int main(void)
 	printf("END\n");
 
 	fputs("newFunc");
+	printf("bugFix");
 
 	return 0;
 }
