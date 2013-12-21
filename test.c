@@ -1,6 +1,6 @@
-<<<<<<< HEAD
-testteste
-fdas
+fdsafda
+fdsafdas
+fdsfad
 =======
 f
 
