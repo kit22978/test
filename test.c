@@ -2,8 +2,8 @@
 
 int main(void)
 {
+	printf("I am Sleeping\n");
 	fputs("newFunc");
-	printf("bugFix");
 
 	return 0;
 }
