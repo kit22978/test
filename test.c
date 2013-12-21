@@ -2,9 +2,6 @@
 
 int main(void)
 {
-	printf("practice\n");
-	printf("git_test/test/test.c");
-	printf("END\n");
-
+	printf("bugFix");
 	return 0;
 }
